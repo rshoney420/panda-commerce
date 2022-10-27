@@ -1,0 +1,16 @@
+.komola{
+    background-color: #feeae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now-button{
+    background-color: #FF136F;
+    color: azure;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
